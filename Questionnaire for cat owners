@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <h1>Опросник владельцев котиков</h1>
+    <form>
+        <fieldset>
+        <legend>Имя</legend>
+    <div>
+    <p><label for="name">Кличка питомца</label>
+        <input type="text" id="name"></p>
+    </div>
+    <div>
+        <p><label for="name">Имя владельца</label>
+        <input type="text" id="name"></p>
+    </div>
+    <div>
+        <label for="contacts">Контакты владельца</label>
+        <input type="text" id="contacts"> 
+    </div>
+    </fieldset>
+    <div>
+        <p><label for="breed">Выберите породу</label></p>
+    </div>
+        <div>
+        <select>
+        <option value="1">Абиссинская</option>
+        <option value="2">Бенгальская</option>
+        <option value="3">Персидская</option>
+        <option value="4">Сибирская</option>
+        <option value="5">Шотландская</option>
+        </select>
+    </div>
+    <div>
+        <p><label for="food">Чем питается?</label></p>
+        <input type="checkbox">Сухой корм <br>
+        <input type="checkbox">Влажный корм <br>
+        <input type="checkbox">Натуральный корм <br>
+    </div>
+    <div>
+        <p><label for="sex">Пол питомца</label></p>
+        <input type="radio" name="sex">Самка<p><input type="radio" name="sex">Самец</p>
+    </div>
+    <div>
+        <p><label for="comment">Комментарий</label></p>
+        <textarea rows="10"></textarea>
+    </div>
+    <div>   
+        <label for="photo">Можете добавить фотографию питомца</label> <button>Выбор файла</button> Не выбран ни один файл</div>
+    <div>
+        <button> Сохранить </button>
+</div>
+</form>
+</body>
+
+</html>
