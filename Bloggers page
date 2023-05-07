@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+    
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <header> <span style="color:yellowgreen">COOKS CORNER</span></header>
+    <nav>
+        <label for="video">Видео-мастер классы</label>
+        <select id="video">
+            <option value="1">Бесплатные мастер-классы</option>
+            <option value="2">Десерты</option>
+            <option value="3">Просто еда</option>
+            <option value="4">Хлеб и выпечка</option>
+            </select>
+        <label for="instructors">Инструкторы</label>
+        <select id="instructors"></select>
+        <label for="project">О проекте</label>
+        <select id="project"></select>
+        <select>
+            <option value="1">О проекте</option>
+            <option value="2">Контакты</option>
+            <option value="3">Партнеры</option>
+            <option value="4">FAQ</option>
+        </select>
+        <label><button>Вход</button></label>
+        <label><button>Регистрация</button></label> 
+    </nav>
+    <main>
+        <article> 
+            <h1>Мария Дидуренко</h1> 
+            <img src="https://www.cookscorner.ru//images/stories/guru/authors/thumbs/mdidurenko.png" alt="Мария Дидуренко"> 
+            <p>Меня зовут Мария Дидуренко и я вареньевар. Или джеммейкер.</p>
+            <p>Началось всё с моей мамы. Она любила делать запасы – глобально, массово, «чтобы дети не голодали». Однажды я открыла дверцу платяного шкафа, а оттуда на меня упал ЗДОРОВЕННЫЙ мешок с травами. Мама заготовила для чая. Тем мешком можно было лет 10 перебиваться семье из 4 человек, да ещё бы осталось. И я задумалась. Мамину энергию сложно было перенаправить, и я создала интернет-магазин, в котором предлагала тизоны (травяные чаи). А к чаям что логично подходит? Варенье, конечно! Вот так всё и началось.</p>
+            <p>Я совсем не повар по образованию, но в 2010 году я начала варить варенья. Искала интересные необычные рецепты, идеи, экспериментировала с необычными сочетаниями, изучала исторические корни знакомого нам с раннего детства лакомства. Попала на первый маркет, где созданные мной варенья раскупили часа за 3-4. Тем же вечером варила партию новых и обдумывала – как мне развить это уникальное занятие. Вот с тех самых пор я варю варенья, джемы, желе и конфитюры постоянно. Придумываю новые сочетания, тестирую их на друзьях, а потом самые классные предлагаю в интернет-магазине.</p>
+            <p>За все эти годы я накопила огромный объем различных рецептов и техник, которыми с удовольствием поделюсь с вами. Хотя, главное могу сказать сразу: варка варений - это такая запасливая радость! Это что-то из детства, из семьи, из семейных традиций... Это близость к корням, к семейным традициям и тихая радость «состоятельного крота» у которого в закромах есть запасы на зиму.</p>
+            <p>Сейчас варка варений это ещё и возможность выразить себя как творческую личность. Благодаря накопленному запасу знаний, техник и маленьких, но очень полезных хитростей мы можем вместе создать не просто варенье, а впечатление на всю жизнь, вкус, о котором ваши друзья будут вспоминать много лет.</p>
+        <p><span style="color:red">Курсы этого инструктора</span></p>
+            </article>
+        <img src="https://www.cookscorner.ru/images/stories/guru/courses/Jams_mainn.jpg" alt="Мария Дидуренко"> 
+        <p><span style="color:yellowgreen">Мария Дидуренко</span></p>
+        <p><a href="https://www.cookscorner.ru/videomasterklassy/guruPrograms/8-deserty/9-dzhem-sejshn-na-skoruyu-ruku">ДЖЕМ-СЕЙШН НА СКОРУЮ РУКУ
+        </a></p>
+        <p>Как хочется сохранить немного ягодного лета и наслаждаться им в холодные зимние вечера! Ни для кого не секрет, что на приготовления классического русского...</p>
+        <img src="https://www.cookscorner.ru/images/stories/guru/courses/free_jam_main3.png" alt="Мария Дидуренко"> 
+        <p><span style="color:yellowgreen">Мария Дидуренко</span></p>
+        <p><a href="https://www.cookscorner.ru/videomasterklassy/guruPrograms/12-besplatnye-video-master-klassy/18-posuda-neobkhodimaya-dlya-varki-varenya">ПОСУДА НЕОБХОДИМАЯ ДЛЯ ВАРКИ ВАРЕНЬЯ
+        </a></p>
+        <p>Мария расскажет вам о минимальном, необходимом наборе посуды для варки варений, из каких материалов она бывает и чему лучше отдать свое предпочтение. Вы узнаете,...</p>
+        <img src="https://www.cookscorner.ru/images/stories/guru/courses/Jam_cesar-main.jpg" alt="Мария Дидуренко"> 
+        <p><span style="color:yellowgreen">Мария Дидуренко</span></p>
+        <p><a href="https://www.cookscorner.ru/videomasterklassy/guruPrograms/8-deserty/25-varene-delo-tsarskoe-klassicheskie-russkie-varenya">КЛАССИЧЕСКИЕ РУССКИЕ ВАРЕНЬЯ
+        </a></p>
+        <p>Варенье, это лакомство знакомое всем с детства. Ягодные и фруктовые заготовки - это не только вкусное и полезное дополнение к чаю, но еще и отличный способ...</p>
+    </main>
+    <footer>
+        <address>
+        <p>Мы в соцсетях: 
+        <a href="https://www.instagram.com/cookscorner.ru">instagram.com/cookscorner.ru</a>
+        <a href="https://ru.pinterest.com/arkhangelolga/">pinterest.com/arkhangelolga/</a>
+        <a href="https://www.facebook.com/cookscorner.ru">facebook.com/cookscorner.ru</a> info@cookscorner.ru <p>пользовательское соглашение 
+        </p>
+        <p>Cookscorner.ru,@ 2016-2017 Все права защищены. Использование материалов с сайта возможно только с согласия правообладателей.</p>
+        </address>
+    </footer>
+</body>
+</html>
