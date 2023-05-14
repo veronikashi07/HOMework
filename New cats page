@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cat</title>
+</head>
+<body>
+    <h1 style="background-color: mediumpurple; color: white;">РЕЗЮМЕ</h1>
+    <h2 style="background-color: rgb(213, 208, 223); color: rgb(16, 1, 1);"> <i>Кот ученый</i></h2>
+    <img src="assets\images\scentistcat.jpg" alt="Cat">
+<div style="background-color: rgba(100,86,143,0.2); color:#FFFFFF;">
+<p>Дата рождения: уточняется... <br>
+    Проживание: г.Москва. <br>
+    Готов к командировкам. Не готов к переезду.</p>
+</div>
+<div style="background-color: rgba(100,86,143,0.5); color:#FFFFFF;">
+    <b>Ключевые знания и навыки:</b>
+    <ul>
+    <li>Большой опыт решения педагогических, научно-методических и организационно-управленческих задач</li>
+    <li>Применение педагогических методик и проведение воспитательной работы</li>
+    <li>Знание научной организации труда, техники безопасности и противопожарной защиты</li>
+    <li>Дисциплинирован, стрессоустойчив, пунктуален</li>
+    </ul>
+</div>
+<div style="background-color: rgba(100,86,143,0.8); color:#FFFFFF;">
+    <div>
+        <b>Достижения:</b>
+        <ul>
+        <li>Был отмечен школой <span style="color:pink">Itgirlschool</span> как "Лучший наставник года"</li>
+        <li>Создал удобную систему внутренней организации для преподавателей школы <span style="color:pink">Itgirlschool</span> </li>
+        </ul>
+        </div>
+    </div>
+<div style="background-color: rgba(100,86,143,1); color:#FFFFFF;">
+    <div>
+        <p><b>Опыт работы:</b><br></p>
+        2019-2023 Наставник, преподаватель школы <span style="color:pink">Itgirlschool</span>
+        Школа IT-профессий для девушек, г.Москва
+        <ul>
+            <li>Обучение учащихся с учетом специфики преподаваемого предмета</li>
+            <li>Применение разнообразных методик и приемов обучения</li>
+            <li>Ведение учебной документации, контроль успеваемости учащихся</li>
+            <li>Участие в собраниях и внутренних совещаниях школы</li>
+            </ul>
+    </div>
+</div>
+<div style="background-color: rgba(100,86,143,0.5); color:#FFFFFF;">
+    <div>
+        <p><b>Образование:</b><br></p>
+        <b>2011</b> <a href="https://pedagogspb.ru/">"Центр последипломного образования"</a>, удостоверение о повышении квалификации <br>
+        <b>2019</b> <a href="http://mpgu.su/">"Московский педагогический государственный университет"</a>,<br>
+        Специальность: "Русский язык и литература", высшее образование, диплом
+    </div>
+</div>
+<div style="background-color: rgba(100,86,143,0.2); color:#FFFFFF;">
+    <div>
+        <p><b>Дополнительная информация:</b><br></p>
+        <b>Иностранные языки:</b> английский язык - высший уровень (С2) <br>
+        <b>Знание ПК:</b> уверенный пользователь <br>
+    </div>
+</div>
+<div style="background-image: url(assets/images/koshka-top-p-fon-dlya-koshki.jpg);"> РЕКОМЕНДАЦИИ ПРЕДОСТАВЛЯЮТСЯ ПО ЗАПРОСУ 
+</div>
+<div>
+    <object type="image/webp" data="assets/images/i.webp"></object>
+</div>
+
+</body>
+</html>
